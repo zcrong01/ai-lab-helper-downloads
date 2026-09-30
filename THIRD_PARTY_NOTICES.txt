@@ -1,0 +1,12 @@
+AI Lab Helper includes a Python runtime and Tcl/Tk packaged by PyInstaller.
+Python license: https://docs.python.org/3/license.html
+PyInstaller license and bootloader exception: https://pyinstaller.org/en/stable/license.html
+Tcl/Tk license: https://www.tcl-lang.org/software/tcltk/license.html
+
+Arduino CLI and AVR tools are not bundled in this installer. On the user's request,
+the application downloads them from the official Arduino distribution services.
+Arduino CLI v0.35.3 release and source: https://github.com/arduino/arduino-cli/releases/tag/v0.35.3
+Arduino AVR core: https://github.com/arduino/ArduinoCore-avr/tree/1.8.6
+Optional libraries are downloaded by Arduino CLI only when requested by the user.
+
+Optional CH340 recovery downloads the unmodified WCH 3.7.2022.1 Windows driver files only when needed. Copyright W.ch 2001-2022. Original Microsoft-signed catalog and driver binaries are preserved. Source: Arduino Help Center article 13148652511260 and its archived WCH CH341SER.EXE link. No WCH driver is bundled in this installer.
