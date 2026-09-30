@@ -1,5 +1,7 @@
 # AI Lab 도우미 다운로드
 
+현재 AI Lab 운영 웹은 새 도우미 연결 화면을 게시하기 전입니다. 설치 파일은 받을 수 있지만 웹 연결·실물 업로드는 웹 업데이트 후 확인합니다.
+
 AI Lab 웹 화면에서 Arduino 호환 보드를 연결할 때 사용하는 Windows 10/11 64비트용 도우미입니다. 기존 Arduino Bridge 0.12.2와 별도로 설치됩니다.
 
 **0.12.3 설치 파일:** [AI-Lab-Helper-Setup-0.12.3.exe](https://github.com/zcrong01/ai-lab-helper-downloads/releases/download/v0.12.3/AI-Lab-Helper-Setup-0.12.3.exe)
